@@ -12,7 +12,7 @@ This project implements collision detection in video frames using Python, OpenCV
 ⚙ Installation
 Clone the repository:
 
-git clone https://github.com/your-username/Collision-Detection-Python.git
+git clone https://github.com/AbdallahSaqr/Collision-Detection-Python.git
 cd Collision-Detection-Python
 
 Install dependencies:
